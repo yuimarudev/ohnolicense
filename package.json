@@ -1,6 +1,8 @@
 {
   "name": "ohno",
-  "bin": "bin/",
+  "bin": {
+    "ohno": "bin/ohno.js"
+  },
   "version": "0.1.0",
   "description": "license",
   "main": "./dist/src/index.js",
