@@ -1,0 +1,27 @@
+{
+  "name": "ohno",
+  "bin": "bin/",
+  "version": "0.1.0",
+  "description": "license",
+  "main": "./dist/src/index.js",
+  "author": "",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "typeCheck": "tsc --noEmit",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@types/treeify": "^1.0.0",
+    "path-list-to-tree": "^1.1.1",
+    "treeify": "^1.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/yuimarudev/ohno/issues",
+    "email": "yuimarudev@outlook.jp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuimarudev/ohno.git"
+  }
+}
